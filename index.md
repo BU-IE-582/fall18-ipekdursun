@@ -2,4 +2,4 @@
 
 ##Week 0
 
-[Here](files/example_homework_0) is here.
+[Here](Files/example_homework_0) is here.
